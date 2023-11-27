@@ -26,14 +26,11 @@ Standard scaling was applied to normalize the numerical features, ensuring fair 
 
 Explored the dataset to understand its structure and characteristics. Visualizations include:
 
-- [Count Plot of Target](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/countplot%20of%20target.png)
-  ![Count Plot](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/countplot%20of%20target.png)
+- [Count Plot of Target](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/countplot%20of%20target.png)
 
-- [Bar Correlation of Target](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/bar%20correlation%20graph%20of%20target.png)
-  ![Bar Correlation](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/bar%20correlation%20graph%20of%20target.png)
+- [Bar Correlation of Target](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/bar%20correlation%20graph%20of%20target.png)
 
-- [Correlation of Target Heatmap](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/correlation%20of%20target%20heatmap.png)
-  ![Correlation Heatmap](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/correlation%20of%20target%20heatmap.png)
+- [Correlation of Target Heatmap](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Breast%20Cancer%20Detection%20model/graph/correlation%20of%20target%20heatmap.png)
 
 ## Model Building 🤖
 
@@ -79,6 +76,6 @@ Conducted a randomized search to find the best hyperparameters for the SVM model
 - Experiment with other ensemble methods.
 - Incorporate more advanced deep learning models for comparison.
 
-Feel free to explore the [overall project](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/tree/main/Machine%20Learning/Breast%20Cancer%20Detection%20model) for detailed code implementation and analysis.
+Feel free to explore the [overall project](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/tree/main/Machine%20Learning/Breast%20Cancer%20Detection%20model) for detailed code implementation and analysis.
 
 👩‍💻 Happy Coding!
