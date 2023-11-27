@@ -33,7 +33,7 @@ Before diving into the project steps, let's understand the key data fields:
    - Utilized distplot to visualize the distribution of the target variable (SalePrice).
    - Created a correlation matrix to understand feature relationships.
 
-   ![Correlation with Target Variable](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/raw/main/Machine%20Learning/Home%20price%20prediction%20model/charts/correlation%20with%20target%20value.png)
+   ![Correlation with Target Variable](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Home%20price%20prediction%20model/charts/correlation%20with%20target%20value.png)
    *Correlation with Target Variable*
 
 #### Step 2: Splitting the Dataset
@@ -116,16 +116,18 @@ The house price prediction model based on the random forest regression algorithm
 ## Project Images 📸
 
 - **Heatmap to Check Null Values:**
-  ![Heatmap to Check Null Values](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/raw/main/Machine%20Learning/Home%20price%20prediction%20model/charts/heatmap%20to%20check%20null.png)
+  ![Heatmap to Check Null Values](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Home%20price%20prediction%20model/charts/heatmap%20to%20check%20null.png)
   *Heatmap to Check Null Values*
 
 - **Positively Correlated Features:**
-  ![Positively Correlated Features](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/raw/main/Machine%20Learning/Home%20price%20prediction%20model/charts/positively%20correlated%20features.png)
+  ![Positively Correlated Features](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Home%20price%20prediction%20model/charts/positively%20correlated%20features.png)
   *Positively Correlated Features*
 
 - **Target Value Skewness and Distribution:**
-  ![Target Value Skewness and Distribution](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/raw/main/Machine%20Learning/Home%20price%20prediction%20model/charts/target%20skewness.png)
+  ![Target Value Skewness and Distribution](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Home%20price%20prediction%20model/charts/target%20skewness.png)
   *Chart shows the target value skewness and distribution*
+
+Feel free to explore the [overall project](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/tree/main/Machine%20Learning/Home%20price%20prediction%20model) for detailed code implementation and analysis.
 
 **Feel free to explore the Colaboratory file for a detailed walkthrough!** 📓✨
 
