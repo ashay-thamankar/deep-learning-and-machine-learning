@@ -51,9 +51,11 @@ The dataset consists of 17,908 entries with 21 features, including user details,
 
 Explore the detailed analysis and model implementation in the [Project Repository](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/tree/main/Machine%20Learning/Loan%20e%20signing%20predictive%20model).
 
-![Bar Chart Correlation with Target](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Loan%20e%20signing%20predictive%20model/charts/bar%20correlation%20with%20target.png)
-![Heatmap Correlation with Target](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Loan%20e%20signing%20predictive%20model/charts/correlation%20of%20target%20heatmap.png)
-![Countplot of Target](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Loan%20e%20signing%20predictive%20model/charts/count%20plot%20of%20target.png)
+![Bar Chart Correlation with Target](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Loan%20e%20signing%20predictive%20model/charts/bar%20correlation%20with%20target.png)
+![Heatmap Correlation with Target](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Loan%20e%20signing%20predictive%20model/charts/correlation%20of%20target%20heatmap.png)
+![Countplot of Target](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Loan%20e%20signing%20predictive%20model/charts/count%20plot%20of%20target.png)
+
+Feel free to explore the [overall project](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/tree/main/Machine%20Learning/Loan%20e%20signing%20predictive%20model) for detailed code implementation and analysis.
 
 Feel free to delve into the project, gain insights, and enjoy the journey!
 
