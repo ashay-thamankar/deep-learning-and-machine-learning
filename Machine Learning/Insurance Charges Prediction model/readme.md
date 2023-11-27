@@ -97,16 +97,16 @@ The analysis uncovers deep insights into factors affecting insurance charges. Ma
 ### Data Exploration and Analysis Charts 📊
 
 #### Distplot of Target Variable and Skew 📈
-![Distplot of Target Variable](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Insurance%20Charges%20Prediction%20model/charts/distplot%20of%20target.png)
+![Distplot of Target Variable](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Insurance%20Charges%20Prediction%20model/charts/distplot%20of%20target.png)
 
 #### Correlation with Target Heatmap 🔍
-![Correlation with Target Heatmap](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Insurance%20Charges%20Prediction%20model/charts/corr%20with%20target%20heatmap%20.png)
+![Correlation with Target Heatmap](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Insurance%20Charges%20Prediction%20model/charts/corr%20with%20target%20heatmap%20.png)
 
 #### Bar Chart - Correlation with Target 📊
-![Bar Chart - Correlation with Target](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/blob/main/Machine%20Learning/Insurance%20Charges%20Prediction%20model/charts/bar%20chart%20corr%20with%20target.png)
+![Bar Chart - Correlation with Target](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Insurance%20Charges%20Prediction%20model/charts/bar%20chart%20corr%20with%20target.png)
 
 ### Overall Project Link on GitHub 🌐
-[Insurance Charges Prediction Project](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/tree/main/Machine%20Learning/Insurance%20Charges%20Prediction%20model)
+[Insurance Charges Prediction Project](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/tree/main/Machine%20Learning/Insurance%20Charges%20Prediction%20model)
 
 ## Acknowledgments 🙏
 
