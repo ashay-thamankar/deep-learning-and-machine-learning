@@ -40,15 +40,19 @@ The dataset we are using is from Kaggle: [Credit Card Fraud Detection](https://w
 
 1. **Logistic Regression**
    - Train a logistic regression model and evaluate its performance.
+   - Accuracy: 0.9373
 
 2. **Random Forest**
    - Build a random forest classifier and assess its accuracy.
+   - Accuracy: 0.9995
 
 3. **Support Vector Machine (SVM)**
    - Implement an SVM model and measure its effectiveness.
+   - Accuracy: 0.9992
 
 4. **XGBoost Classification**
    - Utilize XGBoost for classification and evaluate its performance.
+   - Accuracy: 0.9996
 
 ### 3. Final Model 🏆
 
