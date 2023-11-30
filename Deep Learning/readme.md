@@ -1,4 +1,4 @@
-# Deep Learning Projects 🧠
+# Deep Learning Projects
 
 Welcome to my deep learning projects showcase. Dive into the world of neural networks and convolutional neural networks (CNNs) for various applications.
 
