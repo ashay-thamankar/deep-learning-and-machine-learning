@@ -2,7 +2,7 @@
 
 ## Overview 📊
 
-This project aims to predict student performance using machine learning techniques. By analyzing a dataset containing various student attributes and academic details, we strive to gain insights into factors influencing academic success and build a predictive model.
+This end-to-end project aims to predict student performance using machine learning techniques. By analyzing a dataset containing various student attributes and academic details, we strive to gain insights into factors influencing academic success and build a predictive model. The project extends to deployment using Flask application and Docker images, with the model deployed on an EC2 instance.
 
 ## Table of Contents 📑
 
@@ -11,7 +11,8 @@ This project aims to predict student performance using machine learning techniqu
 3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 4. [Model Development](#model-development)
 5. [Final Model](#final-model)
-6. [Conclusion](#conclusion)
+6. [Model Deployment](#model-deployment)
+7. [Conclusion](#conclusion)
 
 ## Introduction 🚀
 
@@ -270,6 +271,15 @@ The **Linear Regression** model is selected as the final model based on its perf
 
 Predictions are made on the test data using the final Linear Regression model.
 
+### Model Deployment 🚀
+
+The machine learning model is deployed using Flask, Docker images, and an EC2 instance. The deployment includes a home page for user interaction and a predicted page displaying the model's predictions.
+
+Deployment Screenshots:
+
+[Home Page](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Student%20Performance%20Predictrion%20Model/Deployment%20Screenshots/student%20prediction%20model%20home%20page.png)
+[Predicted Page](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/blob/main/Machine%20Learning/Student%20Performance%20Predictrion%20Model/Deployment%20Screenshots/student%20prediction%20model%20predicted%20page.png)
+
 ## Conclusion 🎉
 
-This comprehensive Student Performance Prediction Model project demonstrates the significance of exploratory data analysis and model evaluation in developing accurate machine learning models. The insights gained from the data analysis contribute to informed decision-making, and the selected Random Forest Regressor showcases its prowess in predicting student performance.
+This comprehensive Student Performance Prediction Model project demonstrates the significance of exploratory data analysis, model development, and deployment for practical applications. The insights gained from the data analysis contribute to informed decision-making, and the deployed model provides a user-friendly interface for predicting student performance.
