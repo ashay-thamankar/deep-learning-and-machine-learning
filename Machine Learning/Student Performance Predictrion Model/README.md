@@ -8,21 +8,9 @@ This project aims to predict student performance using machine learning techniqu
 
 1. [Introduction](#introduction)
 2. [Dataset Exploration](#dataset-exploration)
-    - [Data Overview](#data-overview)
-    - [Data Preprocessing](#data-preprocessing)
 3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-    - [Data Distributions and Skewness](#data-distributions-and-skewness)
-    - [Graphs](#graphs)
-    - [Correlation Heatmap](#correlation-heatmap)
 4. [Model Development](#model-development)
-    - [Data Preparation](#data-preparation)
-    - [Model Selection](#model-selection)
-        - [Linear Regression](#linear-regression)
-        - [Decision Tree Regressor](#decision-tree-regressor)
-        - [Random Forest Regressor](#random-forest-regressor)
-    - [Model Evaluation](#model-evaluation)
 5. [Final Model](#final-model)
-    - [Prediction using Final Model](#prediction-using-final-model)
 6. [Conclusion](#conclusion)
 
 ## Introduction 🚀
@@ -155,33 +143,132 @@ Before building models, we preprocess the data, splitting it into training and t
 
 #### Linear Regression
 
-- R2 Score: 0.65
-- RMSE: 12.3
+Model performance for Train set:
+- Root mean squared error: 5.3231
+- Mean absolute error: 4.2667
+- R2 score: 0.8743
 
-#### Decision Tree Regressor
+Model performance for Test set:
+- Root Mean squared error: 5.3940
+- Mean absolute error: 4.2148
+- R2 score: 0.8804
+===================================
 
-- R2 Score on Training Data: 0.85
-- R2 Score on Test Data: 0.72
-- RMSE on Training Data: 9.8
-- RMSE on Test Data: 11.5
+#### Lasso
+
+Model performance for Train set:
+- Root mean squared error: 6.5938
+- Mean absolute error: 5.2063
+- R2 score: 0.8071
+
+Model performance for Test set:
+- Root Mean squared error: 6.5197
+- Mean absolute error: 5.1579
+- R2 score: 0.8253
+===================================
+
+#### Ridge
+
+Model performance for Train set:
+- Root mean squared error: 5.3233
+- Mean absolute error: 4.2650
+- R2 score: 0.8743
+
+Model performance for Test set:
+- Root Mean squared error: 5.3904
+- Mean absolute error: 4.2111
+- R2 score: 0.8806
+===================================
+
+#### K-Neighbors Regressor
+
+Model performance for Train set:
+- Root mean squared error: 5.7091
+- Mean absolute error: 4.5175
+- R2 score: 0.8554
+
+Model performance for Test set:
+- Root Mean squared error: 7.2583
+- Mean absolute error: 5.6370
+- R2 score: 0.7835
+===================================
+
+#### Decision Tree
+
+Model performance for Train set:
+- Root mean squared error: 0.2795
+- Mean absolute error: 0.0187
+- R2 score: 0.9997
+
+Model performance for Test set:
+- Root Mean squared error: 8.2592
+- Mean absolute error: 6.4750
+- R2 score: 0.7197
+===================================
 
 #### Random Forest Regressor
 
-- R2 Score on Training Data: 0.92
-- R2 Score on Test Data: 0.78
-- RMSE on Training Data: 7.5
-- RMSE on Test Data: 10.2
+Model performance for Train set:
+- Root mean squared error: 2.2728
+- Mean absolute error: 1.8171
+- R2 score: 0.9771
+
+Model performance for Test set:
+- Root Mean squared error: 6.0423
+- Mean absolute error: 4.6931
+- R2 score: 0.8500
+===================================
+
+#### XGBRegressor
+
+Model performance for Train set:
+- Root mean squared error: 1.0073
+- Mean absolute error: 0.6875
+- R2 score: 0.9955
+
+Model performance for Test set:
+- Root Mean squared error: 6.4733
+- Mean absolute error: 5.0577
+- R2 score: 0.8278
+===================================
+
+#### CatBoosting Regressor
+
+Model performance for Train set:
+- Root mean squared error: 3.0427
+- Mean absolute error: 2.4054
+- R2 score: 0.9589
+
+Model performance for Test set:
+- Root Mean squared error: 6.0086
+- Mean absolute error: 4.6125
+- R2 score: 0.8516
+===================================
+
+#### AdaBoost Regressor
+
+Model performance for Train set:
+- Root mean squared error: 5.7847
+- Mean absolute error: 4.7346
+- R2 score: 0.8516
+
+Model performance for Test set:
+- Root Mean squared error: 5.9128
+- Mean absolute error: 4.5969
+- R2 score: 0.8563
+===================================
 
 ## Final Model 🏆
 
-The **Random Forest Regressor** is selected as the final model due to its superior performance:
+The **Linear Regression** model is selected as the final model based on its performance metrics on both the training and testing sets:
 
-- R2 Score: 0.78
-- RMSE on Test Data: 10.2
+- Root mean squared error: 5.3940
+- Mean absolute error: 4.2148
+- R2 score: 0.8804
 
 ### Prediction using Final Model
 
-Predictions are made on the test data using the final model.
+Predictions are made on the test data using the final Linear Regression model.
 
 ## Conclusion 🎉
 
